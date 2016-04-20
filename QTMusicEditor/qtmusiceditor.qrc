@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>Resources/fast_forward.png</file>
+    <file>Resources/rewind.png</file>
+    <file>./Resources/record.png</file>
+    <file>./Resources/settings.png</file>
+  </qresource>
+</RCC>
